@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 850px) {
+
+}
+
+@media screen and (max-width: 569px) {
+
+}
+
+@media screen and (max-width: 410px) {
+
+}
+
+nav{
+    margin-left: 80%;
+    margin-top: -70px;
+}
+
+nav ul li{
+    display: inline;
+    padding-left: 20px;
+}
+
+
+.logo{
+    padding: 25px;
+}
+
+.main{
+    padding:3%;
+}
+
+.mainpara{
+    padding-top: 2%;
+}
+
+#bttn{
+ color:aliceblue;
+    background-color: blue;
+padding-top:0.5%;
+padding-bottom:0.5%;
+padding-left: 2%;
+padding-right:2%;
+ 
+}
+
+.but{
+    padding-right: 30px;
+}
